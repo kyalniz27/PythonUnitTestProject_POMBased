@@ -1,0 +1,75 @@
+1640572287450	geckodriver	INFO	Listening on 127.0.0.1:52785
+1640572290556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52786" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile6195FA"
+1640572291053	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile6195FA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52786/devtools/browser/ec47c473-608f-45dc-8521-03a6af2c6f91
+1640572294001	Marionette	INFO	Listening on port 52791
+1640572294290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640572297068	Marionette	INFO	Stopped listening on port 52791
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1640572465153	geckodriver	INFO	Listening on 127.0.0.1:52885
+1640572468268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52886" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile8Odwf1"
+1640572468664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile8Odwf1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52886/devtools/browser/3173cfbf-16c9-4fae-92ae-21073d2eb751
+1640572471221	Marionette	INFO	Listening on port 52891
+1640572471454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640572474876	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1255:36
+c@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:78789
+send/o/<@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:81117
+1640572480099	Marionette	INFO	Stopped listening on port 52891
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640572549601	geckodriver	INFO	Listening on 127.0.0.1:52963
+1640572552707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52964" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile9Bl4uX"
+1640572553146	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile9Bl4uX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52964/devtools/browser/4458a456-4406-4bf4-a965-17b9cb4f38fc
+1640572555878	Marionette	INFO	Listening on port 52969
+1640572555916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640572559480	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1255:36
+c@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:78789
+send/o/<@https://opensource-demo.orangehrmlive.com/webres_61c436f0a9f5a7.38105088/js/jquery/jquery-3.4.1.min.js:2:81117
+1640572564699	Marionette	INFO	Stopped listening on port 52969
+1640572722904	geckodriver	INFO	Listening on 127.0.0.1:53045
+1640572726010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53046" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile84VLkE"
+1640572726447	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile84VLkE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53046/devtools/browser/b9cb8d65-a794-4a37-93a5-6f371522e578
+1640572729300	Marionette	INFO	Listening on port 53051
+1640572729709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640572732802	Marionette	INFO	Stopped listening on port 53051
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
